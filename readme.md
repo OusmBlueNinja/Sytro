@@ -4,7 +4,9 @@
 ## ~~Comeing soon~~ Pre-Release Version Alpha 0.0.2 Out Now
 ![Logo](https://user-images.githubusercontent.com/89956790/149055893-d8024996-0196-49c8-9eaf-708248168b86.png)
 
-Current Release Alpha version 0.0.2
+![icon](https://img.shields.io/badge/Version-Alpha%20V0.0.2-brightgreen)
+
+
 
 
 [Website](https://www.thezone.repl.co)
