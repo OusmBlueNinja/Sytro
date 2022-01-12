@@ -13,6 +13,12 @@
           
 [Donate](https://www.paypal.com/donate/?hosted_button_id=BSZ4GPYGCKC28)
 
+Install librarys
+
+```
+pip install pygame
+```
+
 File Tree for V0.0.5
 
 
