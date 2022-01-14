@@ -1,3 +1,5 @@
+# THIS IS NOW A CLICK GAME CUS IM BAD AT CODEING
+
 # Sytro The Game
 
 
