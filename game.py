@@ -67,13 +67,18 @@ class Score:
     self.gain = 1
     self.score = 0
     self.figScore = 0
+    self.clickDelay = 1
     
   def plussScore(self):
-    if self.score >= 100:
-      self.gain += 1
-      self.score = 0
-    self.score += self.gain
-    self.figScore += self.gain
+    if self.clickDelay == 1:
+      self.clickDelay = 0
+      if self.score >= 100:
+        self.gain += 1
+        self.score = 0
+      self.score += self.gain
+      self.figScore += self.gain
+    else:
+	self.clickDelay = 1
     
     print(self.gain)
     return self.figScore
